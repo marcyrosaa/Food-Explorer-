@@ -36,7 +36,7 @@ As seguintes tecnologias foram empregadas na criação deste projeto:
 
 Clone o projeto para o local desejado em seu computador.
 
-
+https://github.com/marcyrosaa/Food-Explorer-.git
 
 🚧 Executando o BackEnd
 
